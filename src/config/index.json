@@ -27,12 +27,12 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Vi hjälper dig hitta drömbilen",
+    "subtitle": "CarMatch",
+    "description": "Vi är experter på bilar och vet vad som krävs för att göra en bra bilaffär. Från att förstå vilken modell som tappar minst i värde, till vilka objekt vi kan få ned priset på. Boka en kostnadsfri konsultation och låt oss hjälpa dig göra ett bra bilköp.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Boka kostnadsfri konsultation",
       "href": "#"
     },
     "secondaryAction": {

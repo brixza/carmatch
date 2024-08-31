@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 
-import config from '../config/index.json';
+import config from "../config/index.json";
 
 const MainHero = () => {
   const { mainHero } = config;
@@ -11,7 +11,7 @@ const MainHero = () => {
           <span className={`block text-primary xl:inline`}>
             {mainHero.subtitle}
           </span>
-          <span className="block xl:inline">{mainHero.title}</span>{' '}
+          <span className="block xl:inline">{mainHero.title}</span>{" "}
         </h1>
         <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
           {mainHero.description}
